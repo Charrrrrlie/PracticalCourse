@@ -164,4 +164,4 @@ TBD for CJY
 
 ## 
 If you have any questions or issues in using this code, please feel free to
-contact us. (jchen157@u.rochester.edu mainly for Detection & Singular Tracing and yuchen_yang@whu.edu.cn for the last)
+contact us. (jchen157@u.rochester.edu mainly for Detection & Singular Tracing and yuchen_yang@whu.edu.cn for the rest)
