@@ -37,3 +37,11 @@
 
 * DLT
 * 空间后方交会
+
+## 数字摄影测量实习(2021.6)
+
+T9   DEM生成等高线 
+T11  DEM和正射影像的三维显示
+
+* 等高线追踪算法
+* OSG三维显示[(pre-compiled Open Scene Graph)](https://objexx.com/OpenSceneGraph.html)
